@@ -2,7 +2,8 @@
 
 This project presents a Power BI dashboard that analyzes employee attrition using key HR metrics. It is designed to help stakeholders identify the primary drivers of attrition and gain insights into the workforce to support data-driven decision-making.
 
-![Employee Attrition Dashboard]("D:\HR Attrition Analytics\Dashboard Image.png") <!-- Replace with actual path -->
+![image](https://github.com/user-attachments/assets/1b133f79-448f-4913-bc83-48e5395d3d9d)
+
 
 ---
 
